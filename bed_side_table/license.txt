@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bed Side Table
+* source:	https://sketchfab.com/3d-models/bed-side-table-3d6b45b1d83d44d6921930715e9390d7
+* author:	corbaanton (https://sketchfab.com/corbaanton)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bed Side Table" (https://sketchfab.com/3d-models/bed-side-table-3d6b45b1d83d44d6921930715e9390d7) by corbaanton (https://sketchfab.com/corbaanton) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

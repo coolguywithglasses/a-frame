@@ -1,0 +1,334 @@
+{
+  "accessors": [
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 973,
+      "max": [
+        2.6679465770721436,
+        1.2042540311813354,
+        1.3412590026855469
+      ],
+      "min": [
+        -2.6291759014129639,
+        -1.2014169692993164,
+        -1.3412590026855469
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 11676,
+      "componentType": 5126,
+      "count": 973,
+      "max": [
+        0.99998253583908081,
+        0.9999549388885498,
+        0.99999797344207764
+      ],
+      "min": [
+        -0.99998253583908081,
+        -0.99997752904891968,
+        -0.99999797344207764
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 5610,
+      "max": [
+        972
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 23352,
+      "componentType": 5126,
+      "count": 6402,
+      "max": [
+        7.2523193359375,
+        48.336505889892578,
+        7.2523193359375
+      ],
+      "min": [
+        -7.2523193359375,
+        -48.336505889892578,
+        -7.2523183822631836
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 100176,
+      "componentType": 5126,
+      "count": 6402,
+      "max": [
+        1,
+        1,
+        1
+      ],
+      "min": [
+        -1,
+        -1,
+        -1
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 22440,
+      "componentType": 5125,
+      "count": 38400,
+      "max": [
+        6401
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "joxanthos (https://sketchfab.com/joxanthos)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/models/d214c7160be540b48f548e6857cac855",
+      "title": "goldfish"
+    },
+    "generator": "Sketchfab-3.32.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 176040,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 177000,
+      "byteOffset": 176040,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 353040,
+      "uri": "scene.bin"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "Material_47",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          0.49803900000000001,
+          0.15294099999999999,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.93816163679999998
+      }
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "Material_57",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.93816163679999998
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "root_Material_47_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0
+          },
+          "indices": 2,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "root_Material_57_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 4,
+            "POSITION": 3
+          },
+          "indices": 5,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        -1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": "444c0d0fcd3d4946bd9d23fe0af0ecf8.fbx"
+    },
+    {
+      "children": [
+        4
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        5,
+        8
+      ],
+      "name": "root"
+    },
+    {
+      "children": [
+        6
+      ],
+      "name": "root"
+    },
+    {
+      "children": [
+        7
+      ],
+      "matrix": [
+        3.0415745487141875e-09,
+        0,
+        -0.05102914571762085,
+        0,
+        -0,
+        0.051029153168201447,
+        -0,
+        0,
+        0.05102914571762085,
+        0,
+        3.0415745487141875e-09,
+        0,
+        0.047196861356496811,
+        -0.0052915774285793304,
+        0.20097994804382324,
+        1
+      ],
+      "name": ""
+    },
+    {
+      "mesh": 0,
+      "name": "root_Material_47_0"
+    },
+    {
+      "children": [
+        9
+      ],
+      "name": "root"
+    },
+    {
+      "children": [
+        10
+      ],
+      "matrix": [
+        2.3841859048705864e-10,
+        0,
+        -0.001000000280328095,
+        0,
+        -0.00068912090500814751,
+        -1.6429918533879912e-10,
+        -1.6429918878953018e-10,
+        0,
+        -1.9115328080443202e-10,
+        0.00080175517359748483,
+        -4.5574483000561611e-17,
+        0,
+        0.046690605580806732,
+        -0.002428760752081871,
+        0.2939111590385437,
+        1
+      ],
+      "name": ""
+    },
+    {
+      "mesh": 1,
+      "name": "root_Material_57_0"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}
+

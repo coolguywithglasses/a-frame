@@ -1,0 +1,11 @@
+Model Information:
+* title:	Piano-Upright
+* source:	https://sketchfab.com/3d-models/piano-upright-8c8eb590cd934184ac4103562cdf886c
+* author:	pistonstone (https://sketchfab.com/pistonstone)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Piano-Upright" (https://sketchfab.com/3d-models/piano-upright-8c8eb590cd934184ac4103562cdf886c) by pistonstone (https://sketchfab.com/pistonstone) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

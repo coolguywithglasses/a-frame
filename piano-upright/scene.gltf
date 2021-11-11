@@ -1,0 +1,705 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 2490,
+      "max": [
+        36.66294479370117,
+        6.620126724243164,
+        11.608105659484863
+      ],
+      "min": [
+        14.112290382385254,
+        0.6425850987434387,
+        -12.514993667602539
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 29880,
+      "componentType": 5126,
+      "count": 2490,
+      "max": [
+        0.9623011350631714,
+        0.9999598264694214,
+        1.0
+      ],
+      "min": [
+        -0.9310093522071838,
+        -0.9999598264694214,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 2490,
+      "max": [
+        1.0000001192092896,
+        1.0000001192092896
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 19920,
+      "componentType": 5126,
+      "count": 2490,
+      "max": [
+        1.0000001192092896,
+        1.0000001192092896
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 12132,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 59760,
+      "componentType": 5126,
+      "count": 5225,
+      "max": [
+        51.23850631713867,
+        119.82442474365234,
+        73.05020904541016
+      ],
+      "min": [
+        -38.10810852050781,
+        -0.7739909887313843,
+        -67.16905975341797
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 122460,
+      "componentType": 5126,
+      "count": 5225,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 39840,
+      "componentType": 5126,
+      "count": 5225,
+      "max": [
+        0.9997121691703796,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 81640,
+      "componentType": 5126,
+      "count": 5225,
+      "max": [
+        0.9999999403953552,
+        0.9834020137786865
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 48528,
+      "componentType": 5125,
+      "count": 21222,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 185160,
+      "componentType": 5126,
+      "count": 10225,
+      "max": [
+        -10.112671852111816,
+        52.89361572265625,
+        23.691497802734375
+      ],
+      "min": [
+        -39.34830093383789,
+        42.27770233154297,
+        -19.89235496520996
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 307860,
+      "componentType": 5126,
+      "count": 10225,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -0.9999994039535522,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 10225,
+      "max": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -0.9999998807907104,
+        -0.5461204648017883,
+        -1.0,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 123440,
+      "componentType": 5126,
+      "count": 10225,
+      "max": [
+        1.000000238418579,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 205240,
+      "componentType": 5126,
+      "count": 10225,
+      "max": [
+        1.5707491636276245,
+        1.5861155986785889
+      ],
+      "min": [
+        -0.5449098348617554,
+        -0.5732898712158203
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 133416,
+      "componentType": 5125,
+      "count": 51876,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 430560,
+      "componentType": 5126,
+      "count": 28175,
+      "max": [
+        21.991374969482422,
+        73.916748046875,
+        57.944252014160156
+      ],
+      "min": [
+        5.415322780609131,
+        68.5408706665039,
+        -53.37211990356445
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 768660,
+      "componentType": 5126,
+      "count": 28175,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 287040,
+      "componentType": 5126,
+      "count": 28175,
+      "max": [
+        0.8750001192092896,
+        1.0000001192092896
+      ],
+      "min": [
+        0.13546831905841827,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 512440,
+      "componentType": 5126,
+      "count": 28175,
+      "max": [
+        0.8750001192092896,
+        1.0000001192092896
+      ],
+      "min": [
+        0.13546831905841827,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 340920,
+      "componentType": 5125,
+      "count": 95844,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1106760,
+      "componentType": 5126,
+      "count": 7490,
+      "max": [
+        21.248323440551758,
+        74.52590942382813,
+        56.091129302978516
+      ],
+      "min": [
+        9.597145080566406,
+        73.58486938476563,
+        -51.63115692138672
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1196640,
+      "componentType": 5126,
+      "count": 7490,
+      "max": [
+        1.0,
+        1.0,
+        0.9865446090698242
+      ],
+      "min": [
+        -0.8819133639335632,
+        -1.0,
+        -0.9865432381629944
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 737840,
+      "componentType": 5126,
+      "count": 7490,
+      "max": [
+        0.0,
+        0.0
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 797760,
+      "componentType": 5126,
+      "count": 7490,
+      "max": [
+        0.8750001192092896,
+        1.0000001192092896
+      ],
+      "min": [
+        0.125,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 724296,
+      "componentType": 5125,
+      "count": 33600,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "pistonstone (https://sketchfab.com/pistonstone)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/piano-upright-8c8eb590cd934184ac4103562cdf886c",
+      "title": "Piano-Upright"
+    },
+    "generator": "Sketchfab-10.77.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 858696,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 857680,
+      "byteOffset": 858696,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1286520,
+      "byteOffset": 1716376,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 163600,
+      "byteOffset": 3002896,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 3166496,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/Seat_Leather_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/Seat_Leather_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/Seat_Leather_normal.jpeg"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "Pedals",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.8,
+          0.397875,
+          0.0472416,
+          1.0
+        ],
+        "roughnessFactor": 0.227881
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Material",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "metallicFactor": 0.0
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Seat_Leather",
+      "normalTexture": {
+        "index": 2
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0,
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Keys_White",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.657905,
+          0.617045,
+          0.566939,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.76823
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Keys_Black",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.00934656,
+          0.00934656,
+          0.00934656,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.6091469865745696
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "piano_&_stall_Pedals_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "piano_&_stall_Material_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TEXCOORD_0": 7,
+            "TEXCOORD_1": 8
+          },
+          "indices": 9,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "piano_&_stall_Seat_Leather_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 11,
+            "POSITION": 10,
+            "TANGENT": 12,
+            "TEXCOORD_0": 13,
+            "TEXCOORD_1": 14
+          },
+          "indices": 15,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "piano_&_stall_Keys_White_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 17,
+            "POSITION": 16,
+            "TEXCOORD_0": 18,
+            "TEXCOORD_1": 19
+          },
+          "indices": 20,
+          "material": 3,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "piano_&_stall_Keys_Black_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 22,
+            "POSITION": 21,
+            "TEXCOORD_0": 23,
+            "TEXCOORD_1": 24
+          },
+          "indices": 25,
+          "material": 4,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "062218566d4841da8cfa166e4f48bcf2.fbx"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "piano_&_stall"
+    },
+    {
+      "mesh": 0,
+      "name": "piano_&_stall_Pedals_0"
+    },
+    {
+      "mesh": 1,
+      "name": "piano_&_stall_Material_0"
+    },
+    {
+      "mesh": 2,
+      "name": "piano_&_stall_Seat_Leather_0"
+    },
+    {
+      "mesh": 3,
+      "name": "piano_&_stall_Keys_White_0"
+    },
+    {
+      "mesh": 4,
+      "name": "piano_&_stall_Keys_Black_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    }
+  ]
+}
